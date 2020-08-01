@@ -1,7 +1,7 @@
 ##  it111
-#Syllabus
-##IT 111: PROGRAM DESIGN & DEVELOPMENT
-##Seattle Central College
+## Syllabus
+## IT 111: PROGRAM DESIGN & DEVELOPMENT
+## Seattle Central College
 
 * The content of this syllabus is subject to change.
 **Please read the syllabus carefully.  It is your responsibility to ask for clarification as needed.
