@@ -2,10 +2,6 @@
 
 ## IT 111: PROGRAM DESIGN & DEVELOPMENT
 
-
-The content of this syllabus is subject to change.
-Please read the syllabus carefully.  It is your responsibility to ask for clarification as needed.
-
 ** This content is subject to change.
 
 ## Course Information: 
@@ -26,19 +22,17 @@ Prereq: IT 100, or instructor permission.
 ## Course Goals:
 After completing this course students will understand and apply the basic concepts of computer programming and put them in practice with Python and eventually, with other programming languages. 
 
-## These concepts include:
-Elements of Programs: names, expressions
-Output Statements
-Assignment Statements
-Numeric Data Types and Computing with numbers
-Classes
-Sequences: Strings, Lists, Files
-Functions
-Decision Structures
-Loop Structures and Booleans
+These concepts include:
+* Elements of Programs: names, expressions
+* Output Statements
+*Assignment Statements
+* Numeric Data Types and Computing with numbers
+* Classes
+* Sequences: Strings, Lists, Files
+* Functions
+* Decision Structures
+* Loop Structures and Booleans
 
-
-## Textbook (required):
 
 ## Required materials
 ZyBooks Digital textbook 
@@ -49,6 +43,7 @@ ZyBooks Digital textbook
 
 ## Software:
 IDLE (Python’s Integrated Development and Learning Environment) 
+
 https://repl.it/languages/python3
 
 ## Homework Assignments
@@ -62,7 +57,7 @@ Participation activities will be worth 20 points.
 ##  Email
 Students can use email to communicate with me regarding private matters such as grades. However, questions that are content-related can benefit all students; therefore, please ask those either in the face-to-face environment or in our virtual course discussion forums. I will be checking forums daily and receive email notifications when students post. This helps speed up the response process along with the fact that your peers can also help answer your questions.
  
-## Q&A Forum
+## Q&A Forum on Canvas
 I have created a Q&A Forum in the Discussion section. 
 If you have a question about the course or the content, please post it in this forum. If you see a question from a peer that you know the answer to, please feel free to answer it. This reduces the lag time between asking a question and getting an answer. Course questions should be posted here rather than being sent to my email so that all students benefit from the answer. Questions of a personal nature, such as feedback on an assignment, should be sent via the Inbox to protect your privacy.
 
