@@ -9,8 +9,9 @@
 * Time:  Virtual meetings on Mondays from 5:00 pm - 6:30 pm. 
 * Dates: 1/4/2021 - 3/24/2021
 * Instructor: Ava Meredith 
+* Instructor website: https://www.avameredith.com/
 * Email: Stanislava.Meredith@seattlecolleges.edu
-* Office Hours: Virtual, Tuesdays 1-3pm
+* Office Hours: Virtual, Tuesdays 1-3pm or by appointment.
 * Credits: 5
 
 ## Course Description
