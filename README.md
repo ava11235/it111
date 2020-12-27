@@ -54,6 +54,12 @@ To receive full credit, your assignment must display the specified functionality
 Late homework assignments may be accepted, with instructor permission, at 80% of total possible grade (80 points).  
 Participation activities will be worth 20 points.
 
+If you do not complete the assignment by the due date, you will receive a grade of 0. Partial points will be given for partially completed assignments. 
+
+You may request a regrade at -20 points by emailing me and clearly stating for which assignment you are requesting a regrade (e.g. Email subject: Regrade  Ch 1 Code Lab: 1.14).  Late points for participation activities  -4 points.
+
+A regrade request does not guarantee a regrade.
+
 
 ##  Email
 Students can use email to communicate with me regarding private matters such as grades. However, questions that are content-related can benefit all students; therefore, please ask those either in the face-to-face environment or in our virtual course discussion forums. I will be checking forums daily and receive email notifications when students post. This helps speed up the response process along with the fact that your peers can also help answer your questions.
