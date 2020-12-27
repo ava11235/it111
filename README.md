@@ -6,8 +6,8 @@
 
 ## Course Information: 
 * Location: Online
-* Time:  I will hold live online class sessions on Mondays from 5:00 pm - 6:30 pm. You are encouraged to attend, though you are not required to do so.
-* Dates: 9/29/2020 - 12/17/2020
+* Time:  Virtual meetings on Mondays from 5:00 pm - 6:30 pm. 
+* Dates: 1/4/2021 - 3/24/2021
 * Instructor: Ava Meredith 
 * Email: Stanislava.Meredith@seattlecolleges.edu
 * Office Hours: Virtual, Tuesdays 1-3pm
@@ -38,7 +38,7 @@ These concepts include:
 ZyBooks Digital textbook 
 
 1. Sign in or create an account at [learn.zybooks.com](https://learn.zybooks.com/)
-2. Enter zyBook code: SEATTLECENTRALIT111MeredithFall2020
+2. Enter zyBook code:  SEATTLECENTRALIT111MeredithWinter2021
 3. Subscribe
 
 ## Software:
@@ -49,8 +49,8 @@ https://repl.it/languages/python3
 ## Homework Assignments
 Weekly homework assignments will be assigned to you on Canvas. Each assignment will be worth 100 points.  
 Partial credit will be given for incomplete assignments turned in on time, based on the level of completion.
-To receive full credit, your assignment should be displaying the specified functionality and if specified, using specific techniques learned during class.
-Late homework assignments may be accepted at 80% of total possible grade (80 points).
+To receive full credit, your assignment must display the specified functionality and if specified, using specific techniques learned during class.
+Late homework assignments may be accepted, with instructor permission, at 80% of total possible grade (80 points).  
 Participation activities will be worth 20 points.
 
 
