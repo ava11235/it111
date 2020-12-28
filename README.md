@@ -75,3 +75,60 @@ If you have a question about the course or the content, please post it in this f
 You will receive no credit and may be subject to disciplinary action if your graded work is determined not to be your own.  For more information, refer to your Academic Dishonesty Policy in the college catalog or student handbook.
 
 ## Syllabus Supplemental can be found [here](https://docs.google.com/document/d/1yudWf-jUKFL10B16m9VKeFS6isA0B2uPjfYnrT5FjOU/edit?usp=sharing)
+
+## Tentative Schedule 
+
+### Week 1
+General programming concepts
+
+Introduction to Python 3
+
+Python 3 syntax
+
+Input, Processing, Output
+
+### Week 2
+
+Variables
+
+Identifiers
+
+Expressions
+
+The math module
+
+### Week 3
+Types
+
+Strings, Lists, Sets, Dictionaries
+
+### Week 4
+Conditional Branching
+
+### Week 5
+Loops
+
+### Week 6
+
+Functions
+
+### Week 7
+
+Strings
+
+### Week 8
+
+Lists
+
+### Week 9
+
+Dictionaries
+
+### Week 10
+
+Classes
+
+### Week 11
+
+TBD
+
