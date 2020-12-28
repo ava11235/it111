@@ -47,6 +47,9 @@ IDLE (Python’s Integrated Development and Learning Environment)
 
 https://repl.it/languages/python3
 
+## Evaluation
+Will be based on  Weekly Coding Assignments and Participation Activities.
+
 ## Homework Assignments
 Weekly homework assignments will be assigned to you on Canvas. Each assignment will be worth 100 points.  
 Partial credit will be given for incomplete assignments turned in on time, based on the level of completion.
