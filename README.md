@@ -7,7 +7,7 @@
 ## Course Information: 
 * Location: Online
 * Time:  Virtual meetings on Mondays from 5:00 pm - 6:30 pm. 
-* Dates: 1/4/2021 - 3/24/2021
+* Dates: Jun 28, 2021-Aug 20, 2021
 * Instructor: Ava Meredith 
 * Instructor website: https://www.avameredith.com/
 * Email: Stanislava.Meredith@seattlecolleges.edu
@@ -26,7 +26,7 @@ After completing this course students will understand and apply the basic concep
 These concepts include:
 * Elements of Programs: names, expressions
 * Output Statements
-*Assignment Statements
+* Assignment Statements
 * Numeric Data Types and Computing with numbers
 * Classes
 * Sequences: Strings, Lists, Files
@@ -100,7 +100,7 @@ The math module
 ### Week 3
 Types
 
-Strings, Lists, Sets, Dictionaries
+Overview of: Strings, Lists, Sets, Dictionaries
 
 ### Week 4
 Conditional Branching
@@ -116,19 +116,11 @@ Functions
 
 Strings
 
-### Week 8
-
 Lists
 
-### Week 9
-
+### Week 8
 Dictionaries
-
-### Week 10
 
 Classes
 
-### Week 11
-
-TBD
 
