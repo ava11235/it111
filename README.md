@@ -59,10 +59,10 @@ Will be based on  Weekly Coding Assignments and Participation Activities.
 Weekly homework assignments will be assigned to you on Canvas. Each assignment will be worth 100 points.  
 Partial credit will be given for incomplete assignments turned in on time, based on the level of completion.
 To receive full credit, your assignment must display the specified functionality and if specified, using specific techniques learned during class.
-Late homework assignments may be accepted, with instructor permission, at 80% of total possible grade (80 points).  
-Participation activities will be worth 20 points.
 
-If you do not complete the assignment by the due date, you will receive a grade of 0. Partial points will be given for partially completed assignments. 
+Participation activities will be worth 20 points. Participation activities points may vary depending on amount and type of content.
+
+If you do not complete the assignment by the due date, you will receive a grade of 0. 
 
 You may request a regrade by emailing me and clearly stating for which assignment you are requesting a regrade (e.g. Email subject: Regrade  Ch 1 Code Lab: 1.14). 
 A regrade request does not guarantee a regrade.
