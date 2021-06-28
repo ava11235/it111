@@ -38,14 +38,19 @@ These concepts include:
 ## Required materials
 ZyBooks Digital textbook 
 
-1. Sign in or create an account at [learn.zybooks.com](https://learn.zybooks.com/)
-2. Enter zyBook code:  SEATTLECENTRALIT111MeredithWinter2021
-3. Subscribe
+1. Sign in or create an account at learn.zybooks.com
+2. Enter zyBook code: SEATTLECENTRALIT111MeredithSummer2021
+3. Subscribe 
+Note: In case you are delayed with purchasing the book, zyBooks allows for the first chapter to be viewed for free. 
+
 
 ## Software:
 IDLE (Python’s Integrated Development and Learning Environment) 
 
+Cloud based:
 https://repl.it/languages/python3
+
+https://colab.research.google.com/notebooks/intro.ipynb#
 
 ## Evaluation
 Will be based on  Weekly Coding Assignments and Participation Activities.
@@ -59,10 +64,8 @@ Participation activities will be worth 20 points.
 
 If you do not complete the assignment by the due date, you will receive a grade of 0. Partial points will be given for partially completed assignments. 
 
-You may request a regrade at -20 points by emailing me and clearly stating for which assignment you are requesting a regrade (e.g. Email subject: Regrade  Ch 1 Code Lab: 1.14).  Late points for participation activities  -4 points.
-
+You may request a regrade by emailing me and clearly stating for which assignment you are requesting a regrade (e.g. Email subject: Regrade  Ch 1 Code Lab: 1.14). 
 A regrade request does not guarantee a regrade.
-
 
 ##  Email
 Students can use email to communicate with me regarding private matters such as grades. However, questions that are content-related can benefit all students; therefore, please ask those either in the face-to-face environment or in our virtual course discussion forums. I will be checking forums daily and receive email notifications when students post. This helps speed up the response process along with the fact that your peers can also help answer your questions.
@@ -79,28 +82,15 @@ You will receive no credit and may be subject to disciplinary action if your gra
 ## Tentative Schedule 
 
 ### Week 1
-General programming concepts
-
-Introduction to Python 3
-
-Python 3 syntax
-
-Input, Processing, Output
+Introduction to zyBooks
+Introduction to Python
 
 ### Week 2
 
-Variables
-
-Identifiers
-
-Expressions
-
-The math module
+Variables and Expressions
 
 ### Week 3
-Types
-
-Overview of: Strings, Lists, Sets, Dictionaries
+Data Types
 
 ### Week 4
 Conditional Branching
@@ -109,18 +99,14 @@ Conditional Branching
 Loops
 
 ### Week 6
-
 Functions
 
 ### Week 7
-
 Strings
-
 Lists
 
 ### Week 8
-Dictionaries
-
+Dictionaries 
 Classes
 
 
